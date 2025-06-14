@@ -5,5 +5,4 @@ soundfile
 numpy
 matplotlib
 seaborn
-sounddevice
 portaudio
