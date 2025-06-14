@@ -1,8 +1,5 @@
 streamlit
-scikit-learn
 librosa
+joblib
 soundfile
 numpy
-matplotlib
-seaborn
-portaudio
